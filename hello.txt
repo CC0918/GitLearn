@@ -1,13 +1,1 @@
-hello world0
-hello world1
-hello world2
-hello world3
-hello world4
-hello world5
-hello world6
-hello world ccc
-hello world ccc
-hello world ccc
-hello world cc5
-hello world github
-hello world github master
+remote
